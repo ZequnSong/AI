@@ -1,8 +1,8 @@
-Project 1
+# Project 1
 
 Implement Logistic Regression
 
-Predict each applicant¡¯s chance of admission to university based on their results on two exams.
+Predict each applicantÂ¡Â¯s chance of admission to university based on their results on two exams.
 
 Use historical data from previous applicants in ex1data1.txt to select which city to expand to next.
 
@@ -13,7 +13,7 @@ The first two columns is the scores on two exams and the last column is the resu
 * Using fminunc for gradient descent
 * Evaluating the logistic regression model
 
-Project 2
+# Project 2
 
 Implement regularized logistic regression
 
